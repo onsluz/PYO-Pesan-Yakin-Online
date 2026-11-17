@@ -1,9 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS
-// =====================================================
-//  PYO[Pesan Yakin Online] (Simulasi Konsol)
-//  Mengikuti flowchart: Pembelian_Tiket_Bioskop.drawio
-//  Kompilasi : g++ -std=c++11 PYO.cpp -o PYO; .\PYO.exe
-// =====================================================
 #include <iostream>
 #include <fstream>
 #include <sstream>
